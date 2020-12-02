@@ -1,0 +1,2 @@
+# QR-it-EMS
+The purpose of this platform is to maintain typical Employee Management System with additional QR code integration. Admin (aka employer, project manager, etc) will be able to assign tasks, track improvement (via QR it), and export the project as a xml, docx, and a pdf files (w/ pie charts, pivot tables, etc) at the end of milestone. Platform manifests itself as secure employee management system. It guarantees work allocated for each employee is submitted to the visible platform. 
